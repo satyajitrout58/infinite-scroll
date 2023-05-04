@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.items {
+  width: 100%;
+  height: 200px;
+  padding: 10px;
+}
+
+.itemData {
+  border: 1px solid #dddddd;
+  width: 97%;
+  height: 100%;
+  margin: 10px;
+  background-color: yellowgreen;
+}
